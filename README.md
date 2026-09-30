@@ -3,7 +3,7 @@ An operations case study on faster WFM capacity and KPI-risk analysis.
 ## Overview
 
 Our contact-center team needed a faster way to compare historical demand,
-scheduled staffing, and actual performance across 10 plus products.
+scheduled staffing, and actual performance across multiple products.
 The goal was to identify coverage gaps early enough to adjust staffing and
 protect service-level KPIs tied to monthly contractual penalties.
 
@@ -39,7 +39,7 @@ The operating process was:
 
 ## Outcomes
 
-- Reduced the data-preparation and reporting cycle from weeks to seconds
+- Reduced the data-preparation and dramatically reduced the reporting cycle.
   once the workflow was run.
 - Removed substantial manual effort previously spent gathering and
   reconciling information across products.
@@ -55,6 +55,6 @@ performance-dashboard initiative.
 
 I then managed the dashboard project using an Agile framework, keeping
 the team focused on the operational need: comparing call demand,
-scheduled staffing, and actual performance across approximately 10 plus
+scheduled staffing, and actual performance across multiple
 products so leaders could identify coverage gaps and respond to KPI risk.
 
